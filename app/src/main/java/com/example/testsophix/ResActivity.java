@@ -18,7 +18,7 @@ public class ResActivity extends AppCompatActivity {
         mActionBar.setTitle(R.string.res_test);
 
         TextView tv  = findViewById(R.id.tv);
-//        tv.setText("Hello,Sophix");
+        tv.setText("Hello,Sophix");
     }
 
     @Override
